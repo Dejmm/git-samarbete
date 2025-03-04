@@ -4,3 +4,5 @@ while True:
     A=3**3
     print(A)
 print("Ny rad")
+
+print("Sergelen är bäst")
