@@ -6,4 +6,4 @@ while True:
 print("Ny rad")
 
 print("Sergelen är bäst")
-print("Dejm är bättre")
+print("Dejm är bättre och en bombare")
