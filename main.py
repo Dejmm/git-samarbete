@@ -1,2 +1,5 @@
 print("Hej Github")
-print("Test")
+
+while True:
+    A=3**3
+    print(A)
