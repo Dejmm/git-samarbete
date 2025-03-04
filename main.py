@@ -1,2 +1,2 @@
 print("Hej Github")
-print("Test")
+print("Ny rad")
